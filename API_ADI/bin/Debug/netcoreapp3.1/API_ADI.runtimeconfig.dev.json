@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Manoela\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Manoela\\.nuget\\packages"
+    ]
+  }
+}
